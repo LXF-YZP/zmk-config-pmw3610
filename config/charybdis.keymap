@@ -113,7 +113,7 @@
     };
 
 
-{
+
     keymap {
         compatible = "zmk,keymap";
 
@@ -171,5 +171,4 @@
             >;
         };
     };
-};
 };
